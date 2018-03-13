@@ -1,5 +1,8 @@
+.jumbotron{
+    background-color: rgb(33, 96, 168);
+}
 .well{
-    background: rgb(150, 215, 245);
-    font-family: cursive;
+    background: rgb(99, 136, 214);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font: bolder;
 }
