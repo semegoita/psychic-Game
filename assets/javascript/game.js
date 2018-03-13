@@ -7,4 +7,8 @@ var letters = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','
 var won = 0;
 var lost = 0;
 var gleft =9;
-var soMade =0;
+var guessesMade =[];
+
+document.onkeyup = function(event){
+
+}
